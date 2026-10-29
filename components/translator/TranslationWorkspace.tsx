@@ -263,7 +263,7 @@ export default function TranslationWorkspace() {
                 </div>
               </div>
             ) : (
-              <div className="space-y-4 px-2 h-[800px] overflow-y-auto scrollbar-none paper-form">
+              <div className="space-y-4 px-2 paper-form">
                 <div>
                   <h2 className="font-bold text-sm">
                     ใบงานแปลภาษา

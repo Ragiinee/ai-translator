@@ -50,7 +50,7 @@ export default function TranslationResult({
     <section
       id="result"
       aria-labelledby="result-heading"
-      className="space-y-4 pr-2 w-[300px] max-h-[600px] overflow-y-auto scrollbar-none panel panel--result"
+      className="space-y-4 pr-2 w-[300px] overflow-y-auto scrollbar-none panel panel--result"
     >
       <div className="flex flex-wrap justify-between items-center gap-3">
         <h2 id="result-heading" className="font-semibold text-[var(--ink)] text-sm">
